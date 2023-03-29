@@ -9,7 +9,7 @@ function threeSum(arr, target) {
 				}
 			}
 		}
-		return 0;
+
 	}
   
 }
